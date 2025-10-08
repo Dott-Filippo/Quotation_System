@@ -1,0 +1,10 @@
+streamlit>=1.35
+pandas>=2.1
+numpy>=1.26
+matplotlib>=3.7
+plotly>=5.20
+shapely>=2.0
+reportlab>=4.1
+Pillow>=10.0
+
+PyPDF2>=3.0
