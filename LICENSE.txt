@@ -1,165 +1,97 @@
 ⚖️ TERMINI E CONDIZIONI DI UTILIZZO
 Ultimo aggiornamento: 10 maggio 2025
-
 1. PREMESSA
-Il presente software ("Software") è una versione beta, sviluppata e distribuita a titolo gratuito da Filippo Cavanna – Delfi Projects – Delfi Neural Financial Processing, con l’unico scopo di esplorare modelli algoritmici applicabili all’analisi dei mercati finanziari.
-
-Il Software è attualmente in fase di sviluppo e test. È fornito “così com’è”, può contenere errori, bug, anomalie o comportamenti imprevisti, e non rappresenta una versione definitiva, stabile o commercialmente valida.
-
-È destinato esclusivamente a scopi didattici, sperimentali e di ricerca personale, e non ha alcuna finalità operativa, professionale o consulenziale.
-
+Il presente software, denominato “Quotation System” (“Software”), è sviluppato e distribuito da Filippo Cavanna – Delfi Projects, con lo scopo di fornire uno strumento informatico per l’elaborazione di preventivi e stime economiche relative a tetti e strutture in legno.
+Il Software è fornito “così com’è”, può contenere errori, bug o imprecisioni, e non rappresenta uno strumento professionale certificato o validato per uso tecnico, commerciale o contrattuale.
+È destinato esclusivamente a scopi informativi, didattici o di supporto alla progettazione, e non sostituisce in alcun modo il lavoro o il giudizio di un tecnico qualificato.
 L’uso del Software comporta l’accettazione piena, consapevole e incondizionata dei presenti Termini e Condizioni.
-
-2. NESSUNA CONSULENZA FINANZIARIA – MANLEVA COMPLETA DELL’AUTORE
-Il Software può generare grafici, analisi, simulazioni o previsioni su strumenti finanziari. Tali risultati sono puramente indicativi, non verificati, generati da modelli sperimentali e possono essere totalmente errati, imprecisi o fuorvianti.
-
-Il Software non fornisce né intende fornire alcun tipo di consulenza finanziaria, patrimoniale, legale o fiscale, né rappresenta uno strumento operativo, professionale o destinato all’utilizzo in ambito decisionale.
-
-L’utente accetta espressamente che:
-- qualsiasi previsione, indicazione o elaborazione fornita non ha alcun valore di raccomandazione o suggerimento d'investimento;
-- è vietato utilizzare il Software come base per operazioni finanziarie reali, comprese compravendite di titoli, allocazioni di portafoglio o strategie speculative;
-- l’autore non garantisce l'accuratezza, l'affidabilità o l'utilità dei risultati generati;
-- in nessun caso l’autore sarà responsabile per scelte operative, investimenti, perdite economiche o danni diretti o indiretti subiti dall’utente, anche nel caso in cui questi si sia basato, anche solo parzialmente, sui contenuti del Software.
-
-Accettando i presenti Termini, l’utente dichiara di essere pienamente consapevole che il Software può contenere errori, e manleva integralmente e irrevocabilmente l’autore da ogni responsabilità per conseguenze patrimoniali, morali, reputazionali o di altra natura derivanti dal proprio utilizzo.
-
-3. LIMITAZIONE GENERALE DI RESPONSABILITÀ
-Il Software è fornito “così com’è” (“as is”), senza alcuna garanzia, implicita o esplicita, di funzionalità, affidabilità, aggiornamento, accuratezza, sicurezza o adeguatezza a scopi specifici.
-
-L’autore non sarà in alcun caso responsabile per:
-- interruzioni di servizio, malfunzionamenti, errori o perdita di dati;
-- decisioni prese o evitate in base ai risultati generati;
-- danni diretti, indiretti, economici, reputazionali, morali o di qualsiasi altra natura.
-
-L’utilizzo è interamente a rischio dell’utente, che accetta tale condizione in modo pieno e consapevole.
-
-4. REGISTRAZIONE E TRATTAMENTO DEI DATI PERSONALI
-Per l’uso del Software è richiesta la registrazione mediante email e password. I dati forniti sono trattati nel rispetto del Regolamento (UE) 2016/679 (GDPR).
-
-In particolare:
-- sono trattati esclusivamente per scopi tecnici di accesso e autenticazione;
-- non vengono utilizzati per profilazione, marketing o finalità commerciali;
-- non sono comunicati né ceduti a soggetti terzi.
-
-Sebbene siano adottate misure tecniche adeguate, l’utente accetta il rischio residuo di possibili accessi non autorizzati e solleva l’autore da ogni responsabilità in caso di violazioni, data breach o perdita accidentale dei dati.
-
-5. PROPRIETÀ INTELLETTUALE – TUTELA INTEGRALE
-Il Software, in ogni sua componente, è opera dell’ingegno originale ed è protetto dalla normativa vigente in materia di diritto d’autore, proprietà intellettuale e concorrenza sleale, ai sensi della Legge 22 aprile 1941 n. 633, del Codice della Proprietà Industriale (D.lgs. 30/2005), del Regolamento (UE) n. 2017/1001, e delle convenzioni internazionali.
-
-Sono protetti:
-- Codice sorgente, algoritmi, modelli predittivi, formule matematiche, reti neurali;
-- Architettura software, struttura dei dati, logiche computazionali;
-- UI/UX, design visivo, layout, interazioni e combinazioni stilistiche;
-- Naming, marchi, loghi, documentazione e idee progettuali.
-
-È vietato, senza autorizzazione scritta:
-- copiare, modificare, disassemblare o distribuire il Software;
-- creare opere derivate, emulatori o soluzioni simili;
-- effettuare reverse engineering o ispirarsi alla struttura, funzionalità o design;
-- utilizzare anche parzialmente il Software in ambiti educativi, commerciali o di ricerca non personale.
-
-Qualsiasi violazione sarà perseguita legalmente.
-
-6. LICENZA D’USO GRATUITA, LIMITATA E REVOCABILE
-Il Software è concesso in licenza gratuita, personale, non esclusiva, non trasferibile, non sublicenziabile e revocabile in qualsiasi momento, a discrezione dell’autore.
-
-L’autore può:
-- modificarlo, sospenderlo o ritirarlo in qualsiasi momento;
-- disattivare account o bloccare accessi senza preavviso o motivazione.
-
-L’utente non ha diritto a compensi, rimborsi o risarcimenti in caso di interruzione o revoca.
-
-7. LEGGE APPLICABILE E FORO COMPETENTE
-I presenti Termini e Condizioni sono regolati dalla legge italiana.
-Per ogni controversia sarà competente in via esclusiva il Foro di Alessandria.
-
-8. ACCETTAZIONE DEI TERMINI
-L’utente, accedendo o registrandosi, accetta integralmente e irrevocabilmente i presenti Termini e Condizioni.
-Chi non accetta anche solo una parte del presente documento è tenuto a cessare immediatamente ogni utilizzo del Software.
-
-
-
-⚖️ TERMS AND CONDITIONS OF USE
-
-Last updated: May 10, 2025
-
-1. INTRODUCTION
-This software ("Software") is a beta version, developed and distributed free of charge by Filippo Cavanna – Delfi Projects – Delfi Neural Financial Processing, with the sole purpose of exploring algorithmic models applicable to financial market analysis.
-
-The Software is currently under development and testing. It is provided "as is", may contain errors, bugs, anomalies, or unexpected behavior, and does not represent a final, stable, or commercially viable version.
-
-It is intended exclusively for educational, experimental, and personal research purposes and has no operational, professional, or advisory purpose.
-
+⚙️ ENGLISH VERSION – 1. INTRODUCTION
+This software, named “Quotation System” (“Software”), is developed and distributed by Filippo Cavanna – Delfi Projects, with the purpose of providing a digital tool for estimating and generating cost quotations for wooden roofs and structures.
+The Software is provided “as is”, may contain errors, bugs, or inaccuracies, and does not represent a certified or validated professional tool for technical, commercial, or contractual use.
+It is intended solely for informational, educational, or design-support purposes, and does not replace the work or judgment of qualified professionals.
 By using the Software, the user fully, knowingly, and unconditionally accepts these Terms and Conditions.
-
-2. NO FINANCIAL ADVICE – FULL DISCLAIMER OF LIABILITY
-The Software may generate charts, analyses, simulations, or forecasts regarding financial instruments. Such outputs are purely indicative, unverified, generated by experimental models, and may be completely incorrect, inaccurate, or misleading.
-
-The Software does not and is not intended to provide any type of financial, legal, tax, or investment advice, nor does it represent an operational or professional tool intended for use in decision-making.
-
+2. NESSUNA GARANZIA TECNICA O COMMERCIALE – MANLEVA DELL’AUTORE
+Il Software può generare preventivi, stime, calcoli o elaborati tecnici relativi a coperture e strutture in legno.
+Tali risultati sono puramente indicativi, possono contenere errori di calcolo, approssimazioni o incongruenze, e non riflettono necessariamente le condizioni reali di mercato, materiali o manodopera.
+Il Software non costituisce un sistema di progettazione strutturale né un software certificato, e non sostituisce il lavoro di ingegneri, architetti, geometri o imprese edili.
+L’utente accetta espressamente che:
+i preventivi generati non hanno valore contrattuale o commerciale vincolante;
+è vietato utilizzare il Software come base esclusiva per offerte, appalti o lavori reali;
+l’autore non garantisce l’accuratezza o l’idoneità dei risultati;
+l’autore non sarà responsabile per danni diretti o indiretti derivanti dall’uso o dall’affidamento sui risultati del Software.
+Accettando i presenti Termini, l’utente manleva integralmente l’autore da ogni responsabilità economica, tecnica o legale.
+⚙️ ENGLISH VERSION – 2. NO TECHNICAL OR COMMERCIAL WARRANTY – AUTHOR’S DISCLAIMER
+The Software may generate quotes, estimates, calculations, or technical documents related to wooden roofs and structures.
+Such results are purely indicative, may include calculation errors, approximations, or inconsistencies, and do not necessarily reflect real market or material conditions.
+The Software is not a certified structural design tool, nor does it replace the work of engineers, architects, or construction professionals.
 The user expressly agrees that:
-
-any forecast, indication, or output provided has no value as investment advice or recommendation;
-it is strictly prohibited to use the Software as a basis for real financial operations, including security trading, portfolio allocation, or speculative strategies;
-the author does not guarantee the accuracy, reliability, or usefulness of the generated results;
-in no case shall the author be held liable for operational choices, investments, financial losses, or direct or indirect damages suffered by the user, even if based, even partially, on the Software’s content.
-By accepting these Terms, the user acknowledges full awareness of potential errors in the Software and fully and irrevocably releases the author from any liability for financial, moral, reputational, or other consequences arising from its use.
-
-3. GENERAL LIMITATION OF LIABILITY
-The Software is provided “as is”, without any express or implied warranty regarding functionality, reliability, updates, accuracy, security, or fitness for specific purposes.
-
-The author shall not be liable in any case for:
-
-service interruptions, malfunctions, errors, or data loss;
-decisions made or avoided based on generated outputs;
-direct, indirect, economic, reputational, moral, or any other type of damages.
-Use is entirely at the user's own risk, and this condition is fully and consciously accepted.
-
-4. USER REGISTRATION AND PERSONAL DATA PROCESSING
-Use of the Software requires registration via email and password. The provided data are processed in accordance with Regulation (EU) 2016/679 (GDPR).
-
-In particular:
-
-data are processed solely for technical access and authentication purposes;
-they are not used for profiling, marketing, or commercial purposes;
-they are not disclosed or transferred to third parties.
-Although appropriate technical measures are adopted, the user accepts the residual risk of unauthorized access and releases the author from all liability in the event of breaches, data leaks, or accidental data loss.
-
-5. INTELLECTUAL PROPERTY – FULL PROTECTION
-The Software, in all its components, is an original intellectual work and is protected under current copyright, intellectual property, and unfair competition laws, including Law No. 633 of April 22, 1941, the Industrial Property Code (Legislative Decree 30/2005), Regulation (EU) No. 2017/1001, and international conventions.
-
+generated quotations have no contractual or binding value;
+it is prohibited to use the Software as the sole basis for offers, tenders, or real construction work;
+the author does not guarantee the accuracy, completeness, or fitness of the results;
+the author shall not be liable for any direct or indirect damages resulting from use of or reliance on the Software’s outputs.
+By accepting these Terms, the user fully releases the author from any financial, technical, or legal liability.
+3. LIMITAZIONE DI RESPONSABILITÀ
+Il Software è fornito “così com’è”, senza garanzie di funzionamento, affidabilità, accuratezza o adeguatezza a scopi specifici.
+L’autore non sarà in alcun caso responsabile per:
+errori o incongruenze nei risultati dei calcoli;
+malfunzionamenti, interruzioni o perdita di dati;
+decisioni tecniche o economiche basate sui risultati generati;
+danni diretti, indiretti, economici o materiali di qualsiasi natura.
+L’utilizzo avviene sotto la piena responsabilità dell’utente.
+⚙️ ENGLISH VERSION – 3. LIMITATION OF LIABILITY
+The Software is provided “as is”, without any warranty of performance, reliability, accuracy, or suitability for specific purposes.
+The author shall in no case be liable for:
+calculation errors or inconsistencies;
+malfunctions, service interruptions, or data loss;
+technical or economic decisions made based on generated results;
+any direct, indirect, financial, or material damages.
+Use of the Software is entirely at the user’s own risk.
+4. REGISTRAZIONE E DATI PERSONALI
+L’utilizzo di Quotation System può richiedere la registrazione tramite email e password.
+I dati forniti sono trattati nel rispetto del Regolamento (UE) 2016/679 (GDPR) e utilizzati esclusivamente per l’accesso tecnico al sistema.
+Non sono impiegati per fini commerciali o di profilazione.
+Non vengono ceduti a terzi.
+L’utente accetta il rischio residuo di eventuali violazioni o accessi non autorizzati e solleva l’autore da ogni responsabilità in caso di perdita o violazione dei dati.
+⚙️ ENGLISH VERSION – 4. REGISTRATION AND PERSONAL DATA
+Use of Quotation System may require registration via email and password.
+The provided data are processed in compliance with Regulation (EU) 2016/679 (GDPR) and used solely for technical access and authentication.
+Data are not used for commercial purposes or profiling and are not shared with third parties.
+The user accepts the residual risk of possible data breaches or unauthorized access and releases the author from all related liability.
+5. PROPRIETÀ INTELLETTUALE
+Quotation System è un’opera dell’ingegno originale protetta dal diritto d’autore e dalla normativa sulla proprietà intellettuale.
+Sono protetti:
+codice sorgente, algoritmi di calcolo, logiche di preventivazione;
+struttura dei dati, interfaccia grafica e design;
+denominazioni, loghi e documentazione.
+È vietato copiare, modificare, distribuire o effettuare reverse engineering senza autorizzazione scritta dell’autore.
+⚙️ ENGLISH VERSION – 5. INTELLECTUAL PROPERTY
+Quotation System is an original work protected by copyright and intellectual property laws.
 Protected elements include:
-
-Source code, algorithms, predictive models, mathematical formulas, neural networks;
-Software architecture, data structure, computational logic;
-UI/UX, visual design, layout, interactions, and stylistic combinations;
-Naming, trademarks, logos, documentation, and project ideas.
-Without written authorization, it is forbidden to:
-
-copy, modify, disassemble, or distribute the Software;
-create derivative works, emulators, or similar solutions;
-perform reverse engineering or replicate structure, functions, or design;
-use the Software, even partially, in educational, commercial, or non-personal research contexts.
-Any violation will be prosecuted legally.
-
-6. FREE, LIMITED, AND REVOCABLE LICENSE
-The Software is provided under a free, personal, non-exclusive, non-transferable, non-sublicensable, and revocable license at any time at the author’s discretion.
-
-The author may:
-
-modify, suspend, or withdraw it at any time;
-deactivate accounts or block access without notice or explanation.
-The user is not entitled to any compensation, reimbursement, or damages in the event of interruption or revocation.
-
-7. APPLICABLE LAW AND JURISDICTION
-These Terms and Conditions are governed by Italian law.
-Any dispute shall be subject to the exclusive jurisdiction of the Court of Alessandria.
-
-8. ACCEPTANCE OF TERMS
-By accessing or registering, the user fully and irrevocably accepts these Terms and Conditions.
-Anyone who does not accept even a part of this document must immediately cease all use of the Software.
-
-📝 PREVALENCE OF THE ITALIAN VERSION
-In the event of discrepancies, inconsistencies, or divergent interpretations between the Italian and English versions of these Terms and Conditions, only the Italian version shall be legally binding, as it accurately reflects the author's intent.
-Any differences in the English version are solely due to translation issues.
-
+source code, estimation algorithms, and calculation logic;
+data structure, user interface, and design;
+names, logos, and documentation.
+It is forbidden to copy, modify, distribute, or reverse-engineer the Software without the author’s written authorization.
+6. LICENZA D’USO GRATUITA, LIMITATA E REVOCABILE
+Quotation System è concesso in licenza gratuita, personale, non esclusiva, non trasferibile e revocabile in qualsiasi momento a discrezione dell’autore.
+L’autore può modificare, sospendere o disattivare il Software in qualunque momento senza preavviso.
+L’utente non ha diritto a risarcimenti o rimborsi in caso di interruzione.
+⚙️ ENGLISH VERSION – 6. FREE, LIMITED, AND REVOCABLE LICENSE
+Quotation System is provided under a free, personal, non-exclusive, non-transferable, and revocable license, at the author’s discretion.
+The author may modify, suspend, or deactivate the Software at any time without notice.
+The user is not entitled to any compensation or refund in case of interruption.
+7. LEGGE APPLICABILE E FORO COMPETENTE
+I presenti Termini sono regolati dalla legge italiana.
+Per ogni controversia sarà competente in via esclusiva il Foro di Alessandria.
+⚙️ ENGLISH VERSION – 7. APPLICABLE LAW AND JURISDICTION
+These Terms are governed by Italian law.
+Any dispute shall be subject to the exclusive jurisdiction of the Court of Alessandria (Italy).
+8. ACCETTAZIONE DEI TERMINI
+Accedendo o utilizzando Quotation System, l’utente accetta integralmente e irrevocabilmente i presenti Termini e Condizioni.
+Chi non accetta anche solo una parte di essi deve cessare immediatamente l’utilizzo del Software.
+⚙️ ENGLISH VERSION – 8. ACCEPTANCE OF TERMS
+By accessing or using Quotation System, the user fully and irrevocably accepts these Terms and Conditions.
+Anyone who does not accept any part of them must immediately cease using the Software.
+📝 PREVALENZA DELLA VERSIONE ITALIANA
+In caso di discrepanze o divergenze di interpretazione tra la versione italiana e quella inglese, fa fede esclusivamente la versione italiana, che riflette l’intento originario dell’autore.
+⚙️ ENGLISH VERSION – LANGUAGE PREVALENCE
+In case of discrepancies or differences in interpretation between the Italian and English versions, only the Italian version shall be legally binding, as it accurately reflects the author’s intent.
