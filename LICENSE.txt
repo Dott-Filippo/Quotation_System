@@ -1,0 +1,165 @@
+⚖️ TERMINI E CONDIZIONI DI UTILIZZO
+Ultimo aggiornamento: 10 maggio 2025
+
+1. PREMESSA
+Il presente software ("Software") è una versione beta, sviluppata e distribuita a titolo gratuito da Filippo Cavanna – Delfi Projects – Delfi Neural Financial Processing, con l’unico scopo di esplorare modelli algoritmici applicabili all’analisi dei mercati finanziari.
+
+Il Software è attualmente in fase di sviluppo e test. È fornito “così com’è”, può contenere errori, bug, anomalie o comportamenti imprevisti, e non rappresenta una versione definitiva, stabile o commercialmente valida.
+
+È destinato esclusivamente a scopi didattici, sperimentali e di ricerca personale, e non ha alcuna finalità operativa, professionale o consulenziale.
+
+L’uso del Software comporta l’accettazione piena, consapevole e incondizionata dei presenti Termini e Condizioni.
+
+2. NESSUNA CONSULENZA FINANZIARIA – MANLEVA COMPLETA DELL’AUTORE
+Il Software può generare grafici, analisi, simulazioni o previsioni su strumenti finanziari. Tali risultati sono puramente indicativi, non verificati, generati da modelli sperimentali e possono essere totalmente errati, imprecisi o fuorvianti.
+
+Il Software non fornisce né intende fornire alcun tipo di consulenza finanziaria, patrimoniale, legale o fiscale, né rappresenta uno strumento operativo, professionale o destinato all’utilizzo in ambito decisionale.
+
+L’utente accetta espressamente che:
+- qualsiasi previsione, indicazione o elaborazione fornita non ha alcun valore di raccomandazione o suggerimento d'investimento;
+- è vietato utilizzare il Software come base per operazioni finanziarie reali, comprese compravendite di titoli, allocazioni di portafoglio o strategie speculative;
+- l’autore non garantisce l'accuratezza, l'affidabilità o l'utilità dei risultati generati;
+- in nessun caso l’autore sarà responsabile per scelte operative, investimenti, perdite economiche o danni diretti o indiretti subiti dall’utente, anche nel caso in cui questi si sia basato, anche solo parzialmente, sui contenuti del Software.
+
+Accettando i presenti Termini, l’utente dichiara di essere pienamente consapevole che il Software può contenere errori, e manleva integralmente e irrevocabilmente l’autore da ogni responsabilità per conseguenze patrimoniali, morali, reputazionali o di altra natura derivanti dal proprio utilizzo.
+
+3. LIMITAZIONE GENERALE DI RESPONSABILITÀ
+Il Software è fornito “così com’è” (“as is”), senza alcuna garanzia, implicita o esplicita, di funzionalità, affidabilità, aggiornamento, accuratezza, sicurezza o adeguatezza a scopi specifici.
+
+L’autore non sarà in alcun caso responsabile per:
+- interruzioni di servizio, malfunzionamenti, errori o perdita di dati;
+- decisioni prese o evitate in base ai risultati generati;
+- danni diretti, indiretti, economici, reputazionali, morali o di qualsiasi altra natura.
+
+L’utilizzo è interamente a rischio dell’utente, che accetta tale condizione in modo pieno e consapevole.
+
+4. REGISTRAZIONE E TRATTAMENTO DEI DATI PERSONALI
+Per l’uso del Software è richiesta la registrazione mediante email e password. I dati forniti sono trattati nel rispetto del Regolamento (UE) 2016/679 (GDPR).
+
+In particolare:
+- sono trattati esclusivamente per scopi tecnici di accesso e autenticazione;
+- non vengono utilizzati per profilazione, marketing o finalità commerciali;
+- non sono comunicati né ceduti a soggetti terzi.
+
+Sebbene siano adottate misure tecniche adeguate, l’utente accetta il rischio residuo di possibili accessi non autorizzati e solleva l’autore da ogni responsabilità in caso di violazioni, data breach o perdita accidentale dei dati.
+
+5. PROPRIETÀ INTELLETTUALE – TUTELA INTEGRALE
+Il Software, in ogni sua componente, è opera dell’ingegno originale ed è protetto dalla normativa vigente in materia di diritto d’autore, proprietà intellettuale e concorrenza sleale, ai sensi della Legge 22 aprile 1941 n. 633, del Codice della Proprietà Industriale (D.lgs. 30/2005), del Regolamento (UE) n. 2017/1001, e delle convenzioni internazionali.
+
+Sono protetti:
+- Codice sorgente, algoritmi, modelli predittivi, formule matematiche, reti neurali;
+- Architettura software, struttura dei dati, logiche computazionali;
+- UI/UX, design visivo, layout, interazioni e combinazioni stilistiche;
+- Naming, marchi, loghi, documentazione e idee progettuali.
+
+È vietato, senza autorizzazione scritta:
+- copiare, modificare, disassemblare o distribuire il Software;
+- creare opere derivate, emulatori o soluzioni simili;
+- effettuare reverse engineering o ispirarsi alla struttura, funzionalità o design;
+- utilizzare anche parzialmente il Software in ambiti educativi, commerciali o di ricerca non personale.
+
+Qualsiasi violazione sarà perseguita legalmente.
+
+6. LICENZA D’USO GRATUITA, LIMITATA E REVOCABILE
+Il Software è concesso in licenza gratuita, personale, non esclusiva, non trasferibile, non sublicenziabile e revocabile in qualsiasi momento, a discrezione dell’autore.
+
+L’autore può:
+- modificarlo, sospenderlo o ritirarlo in qualsiasi momento;
+- disattivare account o bloccare accessi senza preavviso o motivazione.
+
+L’utente non ha diritto a compensi, rimborsi o risarcimenti in caso di interruzione o revoca.
+
+7. LEGGE APPLICABILE E FORO COMPETENTE
+I presenti Termini e Condizioni sono regolati dalla legge italiana.
+Per ogni controversia sarà competente in via esclusiva il Foro di Alessandria.
+
+8. ACCETTAZIONE DEI TERMINI
+L’utente, accedendo o registrandosi, accetta integralmente e irrevocabilmente i presenti Termini e Condizioni.
+Chi non accetta anche solo una parte del presente documento è tenuto a cessare immediatamente ogni utilizzo del Software.
+
+
+
+⚖️ TERMS AND CONDITIONS OF USE
+
+Last updated: May 10, 2025
+
+1. INTRODUCTION
+This software ("Software") is a beta version, developed and distributed free of charge by Filippo Cavanna – Delfi Projects – Delfi Neural Financial Processing, with the sole purpose of exploring algorithmic models applicable to financial market analysis.
+
+The Software is currently under development and testing. It is provided "as is", may contain errors, bugs, anomalies, or unexpected behavior, and does not represent a final, stable, or commercially viable version.
+
+It is intended exclusively for educational, experimental, and personal research purposes and has no operational, professional, or advisory purpose.
+
+By using the Software, the user fully, knowingly, and unconditionally accepts these Terms and Conditions.
+
+2. NO FINANCIAL ADVICE – FULL DISCLAIMER OF LIABILITY
+The Software may generate charts, analyses, simulations, or forecasts regarding financial instruments. Such outputs are purely indicative, unverified, generated by experimental models, and may be completely incorrect, inaccurate, or misleading.
+
+The Software does not and is not intended to provide any type of financial, legal, tax, or investment advice, nor does it represent an operational or professional tool intended for use in decision-making.
+
+The user expressly agrees that:
+
+any forecast, indication, or output provided has no value as investment advice or recommendation;
+it is strictly prohibited to use the Software as a basis for real financial operations, including security trading, portfolio allocation, or speculative strategies;
+the author does not guarantee the accuracy, reliability, or usefulness of the generated results;
+in no case shall the author be held liable for operational choices, investments, financial losses, or direct or indirect damages suffered by the user, even if based, even partially, on the Software’s content.
+By accepting these Terms, the user acknowledges full awareness of potential errors in the Software and fully and irrevocably releases the author from any liability for financial, moral, reputational, or other consequences arising from its use.
+
+3. GENERAL LIMITATION OF LIABILITY
+The Software is provided “as is”, without any express or implied warranty regarding functionality, reliability, updates, accuracy, security, or fitness for specific purposes.
+
+The author shall not be liable in any case for:
+
+service interruptions, malfunctions, errors, or data loss;
+decisions made or avoided based on generated outputs;
+direct, indirect, economic, reputational, moral, or any other type of damages.
+Use is entirely at the user's own risk, and this condition is fully and consciously accepted.
+
+4. USER REGISTRATION AND PERSONAL DATA PROCESSING
+Use of the Software requires registration via email and password. The provided data are processed in accordance with Regulation (EU) 2016/679 (GDPR).
+
+In particular:
+
+data are processed solely for technical access and authentication purposes;
+they are not used for profiling, marketing, or commercial purposes;
+they are not disclosed or transferred to third parties.
+Although appropriate technical measures are adopted, the user accepts the residual risk of unauthorized access and releases the author from all liability in the event of breaches, data leaks, or accidental data loss.
+
+5. INTELLECTUAL PROPERTY – FULL PROTECTION
+The Software, in all its components, is an original intellectual work and is protected under current copyright, intellectual property, and unfair competition laws, including Law No. 633 of April 22, 1941, the Industrial Property Code (Legislative Decree 30/2005), Regulation (EU) No. 2017/1001, and international conventions.
+
+Protected elements include:
+
+Source code, algorithms, predictive models, mathematical formulas, neural networks;
+Software architecture, data structure, computational logic;
+UI/UX, visual design, layout, interactions, and stylistic combinations;
+Naming, trademarks, logos, documentation, and project ideas.
+Without written authorization, it is forbidden to:
+
+copy, modify, disassemble, or distribute the Software;
+create derivative works, emulators, or similar solutions;
+perform reverse engineering or replicate structure, functions, or design;
+use the Software, even partially, in educational, commercial, or non-personal research contexts.
+Any violation will be prosecuted legally.
+
+6. FREE, LIMITED, AND REVOCABLE LICENSE
+The Software is provided under a free, personal, non-exclusive, non-transferable, non-sublicensable, and revocable license at any time at the author’s discretion.
+
+The author may:
+
+modify, suspend, or withdraw it at any time;
+deactivate accounts or block access without notice or explanation.
+The user is not entitled to any compensation, reimbursement, or damages in the event of interruption or revocation.
+
+7. APPLICABLE LAW AND JURISDICTION
+These Terms and Conditions are governed by Italian law.
+Any dispute shall be subject to the exclusive jurisdiction of the Court of Alessandria.
+
+8. ACCEPTANCE OF TERMS
+By accessing or registering, the user fully and irrevocably accepts these Terms and Conditions.
+Anyone who does not accept even a part of this document must immediately cease all use of the Software.
+
+📝 PREVALENCE OF THE ITALIAN VERSION
+In the event of discrepancies, inconsistencies, or divergent interpretations between the Italian and English versions of these Terms and Conditions, only the Italian version shall be legally binding, as it accurately reflects the author's intent.
+Any differences in the English version are solely due to translation issues.
+
